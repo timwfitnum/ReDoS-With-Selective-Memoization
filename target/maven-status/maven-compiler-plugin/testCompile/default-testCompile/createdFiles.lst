@@ -1,0 +1,12 @@
+pl\marcinchwedczuk\continuations\ContinuationsTest$Cont.class
+pl\marcinchwedczuk\reng\SmokeTests.class
+pl\marcinchwedczuk\reng\PuzzleTest.class
+pl\marcinchwedczuk\reng\parser\RLexerTest.class
+pl\marcinchwedczuk\continuations\Continuations1Test$Cont.class
+pl\marcinchwedczuk\continuations\Continuations1Test$Thunk.class
+pl\marcinchwedczuk\reng\RAst_toString.class
+pl\marcinchwedczuk\continuations\ContinuationsTest.class
+pl\marcinchwedczuk\reng\BacktrackingMatcherTest.class
+pl\marcinchwedczuk\reng\parser\CharListTest.class
+pl\marcinchwedczuk\continuations\Continuations1Test.class
+pl\marcinchwedczuk\reng\parser\RParserTest.class
